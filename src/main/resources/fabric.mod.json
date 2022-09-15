@@ -4,9 +4,10 @@
   "version": "${version}",
 
   "name": "Robowalk",
-  "description": "Mod to bypass LiveOverflow's anti-walking plugin, flawlessly",
+  "description": "Bypass for anti-human plugin on LiveOverflow Minecraft server",
   "authors": [
-    "saturn5Vfive"
+    "saturn5Vfive",
+    "NobreHD"
   ],
   "contact": {
     "homepage": "https://saturns.tech/",
@@ -27,9 +28,10 @@
   ],
 
   "depends": {
-    "fabricloader": ">=0.14.6",
+    "fabricloader": ">=0.13.3",
     "minecraft": "~1.18.2",
-    "java": ">=17"
+    "java": ">=17",
+    "fabric": "*"
   },
   "suggests": {
     "another-mod": "*"
