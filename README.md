@@ -1,23 +1,22 @@
 # Robowalk
 
-## You can move on liveoverflows server
+## Bypass for anti-human plugin on LiveOverflow Minecraft server
 
 
-## Usage
+## How to get the mod:
 
-git clone and ./gradlew build to build the mod yourself, 
-download compiled jar from https://github.com/Saturn5Vfive/robowalk/raw/cf88e62699e13cb8c36d75c4459afd82ef6010ce/jar/robowalk-1.0.0.jar if you're too lazy to build
+1) Download the latest release from [here](https://github.com/NobreHD/robowalk/releases/download/v1.0.0/robowalk-1.0.0.jar)
 
-## How 2 uze
+or
 
-Uhh type "robowalk on"
+2) Clone this repo and run `./gradlew build` to build the jar
 
-robowalk off = turn it off
+## Commands:
 
-robowalk on = turn it on
+`/robowalk` - Status (alias: `/rw`)
 
-robowalk debug on = turn on debug
+`/robowalk [on, off, toggle]` - Turn on/off
 
-robowalk debug off = turn off debug
+`/robowalk debug` - Toggle debug mode
 
-robowalk = check if is working
+`/robowalk help` - Show this list of commands
